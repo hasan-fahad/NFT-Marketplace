@@ -1,0 +1,30 @@
+.pic{
+    width: 269px;
+    height: 373px;
+}
+
+.people1{
+    position: relative;
+    right: -5px;
+    bottom: 20px;
+}
+
+
+.people2{
+    position: relative;
+    right: 5px;
+    bottom: 20px;
+}
+
+.people3{
+    position: relative;
+    right: 15px;
+    bottom: 20px;
+}
+
+.people4{
+    position: relative;
+    right: 25px;
+    bottom: 20px;
+}
+

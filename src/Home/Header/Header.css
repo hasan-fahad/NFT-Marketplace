@@ -1,0 +1,23 @@
+
+.header{
+    min-width: 100%;
+    display: flex;
+    justify-content: space-between; 
+    padding-right:100px;   
+    
+
+}
+
+.header img{
+    align-items: center;
+    margin-left: 32px;
+    height: 29px;
+    width: 107px;
+}
+
+.search{
+
+    
+    /* border: none; */
+    outline: none;
+}
